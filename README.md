@@ -1,0 +1,1 @@
+# beautyscore-docs
