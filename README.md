@@ -11,7 +11,7 @@
 단 9개의 데이터 입력으로 매장의 재방문율·숨은매출·노쇼손실·벤치마크를 자동으로 분석합니다.
 감이 아닌 데이터로 매장을 경영할 수 있도록 돕습니다.
 
-- 🌐 공식 홈페이지: [beautyscore.co.kr](https://beautyscore.co.kr)
+- 🌐 공식 홈페이지: [app.beautyscore.co.kr](https://app.beautyscore.co.kr)
 - 📊 무료 매장진단: [form.beautyscore.co.kr](https://form.beautyscore.co.kr)
 - 🏢 운영사: [에스테틱 경영데이터 연구소](https://estedatalab.com)
 
@@ -50,4 +50,4 @@
 
 **에스테틱 경영데이터 연구소**
 - 웹사이트: [estedatalab.com](https://estedatalab.com)
-- 서비스: [beautyscore.co.kr](https://beautyscore.co.kr)
+- 서비스: [app.beautyscore.co.kr](https://app.beautyscore.co.kr)
