@@ -77,6 +77,6 @@
 
 - 웹사이트: [estedatalab.com](https://estedatalab.com)
 - 이메일: contact@estedatalabs.com
-- 서비스: [beautyscore.co.kr](https://beautyscore.co.kr)
+- 서비스: [app.beautyscore.co.kr](https://beautyscore.co.kr)
 
 *국내 유일의 에스테틱 매장 특화 경영 데이터 분석 서비스를 제공합니다.*
